@@ -23,7 +23,7 @@ CPU: Es la parte del ordenador encargada de ejecutar las intrucciones mediante o
   - Reloj: Proporciona impulsos electricos para marcas tiempos de ejecución
   - Secuenciador: Sincroniza ordenes con el reloj para ejecutar las instrucciones ordenadamente.
 
-*Memoria RAM*: Es la memoria volátil del ordenador, la cual almacena memoria temporalmente (hasta que se apaga el ordenador)
+*Memoria RAM*: Es la memoria volátil del ordenador, la cual almacena memoria temporalmente (hasta que se apaga el ordenador)  
 *Dispositivos de E/S*: Son los dispositivos que permiten la interaccion del ordenador con el exterior, transmitiendo información a periféricos.
 
 # Fases de ejecución de una instrucción 
